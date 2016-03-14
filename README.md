@@ -3,3 +3,9 @@
 # JS_Enthusiasts first meetup using, using MERN template
 ![title](https://travis-ci.org/Hashnode/mern-starter.svg?branch=master)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
+```
+  npm install
+  npm run start
+```
+open http://localhost:8000/slides/1
